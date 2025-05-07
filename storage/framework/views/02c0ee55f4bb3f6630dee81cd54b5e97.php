@@ -1,0 +1,1 @@
+<?php /**PATH C:\xampp\htdocs\PG-Patment-Application\resources\views/welcome.blade.php ENDPATH**/ ?>
